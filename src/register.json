@@ -1,0 +1,11 @@
+{
+  "records": [
+    { "id": "name", "label": "Name", "state": "stated", "value": "Bureau", "source": "client statement", "recorded": "2026-10-06" },
+    { "id": "domain", "label": "Domain", "state": "stated", "value": "agentbureau.fun", "source": "client statement", "recorded": "2026-10-06" },
+    { "id": "chain", "label": "Chain", "state": "stated", "value": "Solana main network", "source": "client statement", "recorded": "2026-10-06" },
+    { "id": "rpc", "label": "RPC", "state": "stated", "value": "https://solana-rpc.publicnode.com", "source": "client statement", "recorded": "2026-10-06" },
+    { "id": "contract", "label": "Contract", "state": "absent", "value": null, "format": "solana-base58", "source": "client statement", "recorded": "2026-10-06" },
+    { "id": "x", "label": "X", "state": "stated", "value": "https://x.com/AgentBureau_fun", "source": "client confirmation", "dated": "2026-10-06" },
+    { "id": "github", "label": "GitHub", "state": "absent", "value": null, "source": "client statement", "recorded": "2026-10-06" }
+  ]
+}

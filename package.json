@@ -1,0 +1,14 @@
+{
+  "name": "bureau",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Bureau: registry and clearing office for autonomous software on Solana.",
+  "license": "MIT",
+  "scripts": {
+    "build": "node tools/build.mjs",
+    "gates": "node tools/gates.mjs",
+    "serve": "node tools/serve.mjs"
+  },
+  "engines": { "node": ">=20" }
+}
